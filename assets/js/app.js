@@ -7,7 +7,7 @@ header.innerHTML = `
 <h3>${cv.personalInfo.location} 
 | <a href="http://wa.me/57${cv.personalInfo.phone}">${cv.personalInfo.phone}</a> 
 | <a href="mailto:${cv.personalInfo.email}" target="_blank" rel="noopener noreferrer">${cv.personalInfo.email}</a>
-| <a href="downloads/CVMiltonSHerrera.pdf" target="_blank">ver CV Aquí</a>
+| <a href="downloads/CVMiltonSHerrera.pdf" target="_blank">Descargar CV en PDF</a>
 </h3>
 `;
 

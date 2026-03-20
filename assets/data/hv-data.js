@@ -4,7 +4,7 @@ const cv = {
         title: "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
         location: "Cali, Colombia",
         phone: "3045666645",
-        email: "milton.sarria.herrera@outlook.com"
+        email: "milton.sarria.herrera+cv@outlook.com"
     },
 
     professionalProfile: `Tecnólogo en Análisis y Desarrollo de Sistemas de Información y Técnico en Sistemas

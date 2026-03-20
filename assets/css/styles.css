@@ -14,8 +14,8 @@ body {
     gap: 10px;
     grid-template:
         "header"
-        "aside"
         "main"
+        "aside"
         "footer"
     ;
 }
