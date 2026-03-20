@@ -1,7 +1,7 @@
 const cv = {
     personalInfo: {
         name: "Milton Sarria Herrera",
-        title: "Tecnólogo en Análisis y Desarrollo de Sistemas de Información (ADSI)",
+        title: "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
         location: "Cali, Colombia",
         phone: "3045666645",
         email: "milton.sarria.herrera@outlook.com"
